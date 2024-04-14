@@ -1,0 +1,8 @@
+Makefile
+*.cmake
+CMakeCache.txt
+bench_hnsw
+lib
+CMakeFiles
+.DS_Store
+_deps
