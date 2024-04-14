@@ -5,6 +5,10 @@
 #include <stack>
 #include <vector>
 
+/*
+Benchmarking HNSW based on the rnn-descent benchmark
+*/
+
 struct UnionFind {
     std::vector<int> parents;
 

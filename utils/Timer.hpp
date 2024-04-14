@@ -2,6 +2,10 @@
 
 #include <chrono>
 
+/*
+Benchmarking HNSW based on the rnn-descent benchmark
+*/
+
 class Timer {
     std::chrono::system_clock::time_point start;
 

@@ -6,6 +6,10 @@
 #include <cassert>
 #include <memory>
 
+/*
+Benchmarking HNSW based on the rnn-descent benchmark
+*/
+
 float recall_at_k(const size_t nq, const size_t k, const size_t stride_labels,
                   const std::unique_ptr<faiss::idx_t[]>& labels,
                   const size_t stride_gt,

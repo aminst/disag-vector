@@ -9,6 +9,10 @@
 #include <string>
 #include <tuple>
 
+/*
+Benchmarking HNSW based on the rnn-descent benchmark
+*/
+
 namespace {
 
 size_t load_dim(const std::filesystem::path& filename) {
