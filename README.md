@@ -25,3 +25,6 @@ Running the benchmark:
 ./bench_hnsw.sh
 ```
 you can change the parameters M and efConstruction in the bench_hnsw.sh. It stores the benchmark results in the results directory.
+
+## Project Group
+Sairaj Voruganti & Amin Setayesh
