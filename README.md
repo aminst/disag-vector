@@ -1,5 +1,10 @@
 # Disaggregated and Heterogeneous Computing Platform for Graph Processing Course Project (Winter 2024)
 
+## Cloning the Repo
+```
+git clone --recursive git@github.com:aminst/disag-vector.git
+```
+
 ## Running the Code
 First, please generate the makefile with cmake using this command:
 ```bash
